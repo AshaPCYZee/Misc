@@ -1,0 +1,37 @@
+
+
+Timeline 
+
+18/01
+COMPLETION OF CODE (basic functionality) . Log
+in . Displaying
+timetables  15/02
+INCREMENTAL UPGRADES AND RIGOROUS TESTING.
+fdroid (feedback – install it). Fixing
+bugs / optimising / efficiency . Skeleton
+of backend  01/03
+PORTFOLIO (Working as we go).
+Formulate the back end completely  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
